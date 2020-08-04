@@ -1,0 +1,5 @@
+colored
+colorlog
+requests
+requests_ntlm
+urllib3
